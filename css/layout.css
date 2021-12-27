@@ -962,6 +962,11 @@ call-to-action .button {
    align-content: center;
 }
 
+#inquiry iframe {
+   min-width: 300px;
+   width: 100%;
+}
+
 /* Twitter Feed */
 #twitter {
    margin-top: 12px;
